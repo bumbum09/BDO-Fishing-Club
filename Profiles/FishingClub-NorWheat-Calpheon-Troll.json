@@ -1,0 +1,32 @@
+{
+  "FishSpotPosition": {
+    "X": -198287.09375,
+    "Y": -2021.7099609375,
+    "Z": -12540.146484375
+  },
+  "FishSpotRotation": 5.3825297355652,
+  "RepairNpcName": "Grandus",
+  "RepairNpcPosition": {
+    "X": -251149.0,
+    "Y": -3173.4599609375,
+    "Z": -42285.30078125
+  },
+  "TradeManagerNpcName": "Andre Vidal",
+  "TradeManagerNpcPosition": {
+    "X": -260018.0,
+    "Y": -1360.8729248047,
+    "Z": 8127.2001953125
+  },
+  "VendorNpcName": "Bartholomeo",
+  "VendorNpcPosition": {
+    "X": -244450.0,
+    "Y": -4001.7199707031,
+    "Z": -48939.19921875
+  },
+  "WarehouseNpcName": "Ljurik's Storage Box",
+  "WarehouseNpcPosition": {
+    "X": -253638.0,
+    "Y": -2754.4799804688,
+    "Z": -40563.80078125
+  }
+}

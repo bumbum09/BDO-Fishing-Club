@@ -18,7 +18,7 @@
     "DeleteItems": [],
     "SecondsBetweenTries": 60
   },
-  "LastProfileName": "FishingClub-Olivia",
+  "LastProfileName": "FishingClub-NorWheat-Calpheon-Troll",
   "LibConsumablesSettings": {
     "Consumables": [],
     "ConsumeWait": 1,
@@ -43,22 +43,28 @@
   },
   "PrintConsoleState": true,
   "RepairSettings": {
-    "NpcName": "Curtis",
+    "NpcName": "Grandus",
     "NpcPosition": {
-      "X": -143413.0,
-      "Y": 1002.299987793,
-      "Z": 125030.0
+      "X": -251149.0,
+      "Y": -3173.4599609375,
+      "Z": -42285.30078125
     },
     "SecondsBetweenTries": 3000
+  },
+  "StartFishingSettigs": {
+    "MaxEnergyCheat": false
+  },
+  "StartFishingSettings": {
+    "MaxEnergyCheat": true
   },
   "TradeManagerSettings": {
     "DoTradeGame": false,
     "IgnoreItemsNamed": [],
-    "NpcName": "Lolly",
+    "NpcName": "Andre Vidal",
     "NpcPosition": {
-      "X": -141801.0,
-      "Y": 615.24597167969,
-      "Z": 127715.0
+      "X": -260018.0,
+      "Y": -1360.8729248047,
+      "Z": 8127.2001953125
     },
     "SecondsBetweenTries": 3000,
     "SellAll": true,
@@ -70,14 +76,18 @@
   "VendorOnWeight": false,
   "VendorSettings": {
     "BuyEnabled": true,
-    "BuyItems": [],
+    "BuyItems": [ {
+      "BuyAt": 0.0,
+      "BuyMax": 3.0,
+      "Name": "Fishing Rod"
+    } ],
     "BuyWhenAtVendor": true,
     "IgnoreItemsNamed": [ "Grain Soup", "Beer\u0000\u0000\u0000", "Sute Tea" ],
-    "NpcName": "Kyrio",
+    "NpcName": "Bartholomeo",
     "NpcPosition": {
-      "X": -140281.0,
-      "Y": -6865.1801757813,
-      "Z": 172421.0
+      "X": -244450.0,
+      "Y": -4001.7199707031,
+      "Z": -48939.19921875
     },
     "SecondsBetweenTries": 3000,
     "SellEnabled": true,
@@ -101,11 +111,11 @@
     "DepositMoney": true,
     "IgnoreItemsNamed": [ "Fishing Rod", "Beer\u0000\u0000\u0000", "Steel Fishing Rod", "Sute Tea", "Moray\u0000\u0000", "Swordfish", "Sandfish", "Sea Eel", "Tilefish", "Mackerel", "Beltfish" ],
     "MoneyToKeep": 10000,
-    "NpcName": "Makuum",
+    "NpcName": "Ljurik's Storage Box",
     "NpcPosition": {
-      "X": -138739.0,
-      "Y": 809.27301025391,
-      "Z": 121969.0
+      "X": -253638.0,
+      "Y": -2754.4799804688,
+      "Z": -40563.80078125
     },
     "SecondsBetweenTries": 3000
   }
