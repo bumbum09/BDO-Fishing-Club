@@ -1,0 +1,32 @@
+{
+  "FishSpotPosition": {
+    "X": 373340.0,
+    "Y": -8208.0,
+    "Z": -17370.818359375
+  },
+  "FishSpotRotation": 1.2332561016083,
+  "RepairNpcName": "Mevo Muranan",
+  "RepairNpcPosition": {
+    "X": 362654.0,
+    "Y": -5096.4702148438,
+    "Z": -70498.296875
+  },
+  "TradeManagerNpcName": "Kesir Baum",
+  "TradeManagerNpcPosition": {
+    "X": 384068.0,
+    "Y": -5207.8916015625,
+    "Z": -137632.0
+  },
+  "VendorNpcName": "Bereo",
+  "VendorNpcPosition": {
+    "X": 358703.0,
+    "Y": -8118.1298828125,
+    "Z": -36548.5
+  },
+  "WarehouseNpcName": "Deve",
+  "WarehouseNpcPosition": {
+    "X": 364177.0,
+    "Y": -4957.7299804688,
+    "Z": -74140.1015625
+  }
+}

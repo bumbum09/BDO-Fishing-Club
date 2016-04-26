@@ -18,7 +18,7 @@
     "DeleteItems": [],
     "SecondsBetweenTries": 60
   },
-  "LastProfileName": "FishingClub-NorWheat-Calpheon-Troll",
+  "LastProfileName": "FishingClub-Altinova",
   "LibConsumablesSettings": {
     "Consumables": [],
     "ConsumeWait": 1,
@@ -45,9 +45,9 @@
   "RepairSettings": {
     "NpcName": "Grandus",
     "NpcPosition": {
-      "X": -251149.0,
-      "Y": -3173.4599609375,
-      "Z": -42285.30078125
+      "X": 362654.0,
+      "Y": -5096.4702148438,
+      "Z": -70498.296875
     },
     "SecondsBetweenTries": 3000
   },
@@ -62,9 +62,9 @@
     "IgnoreItemsNamed": [],
     "NpcName": "Andre Vidal",
     "NpcPosition": {
-      "X": -260018.0,
-      "Y": -1360.8729248047,
-      "Z": 8127.2001953125
+      "X": 384068.0,
+      "Y": -5207.8916015625,
+      "Z": -137632.0
     },
     "SecondsBetweenTries": 3000,
     "SellAll": true,
@@ -85,9 +85,9 @@
     "IgnoreItemsNamed": [ "Grain Soup", "Beer\u0000\u0000\u0000", "Sute Tea" ],
     "NpcName": "Bartholomeo",
     "NpcPosition": {
-      "X": -244450.0,
-      "Y": -4001.7199707031,
-      "Z": -48939.19921875
+      "X": 358703.0,
+      "Y": -8118.1298828125,
+      "Z": -36548.5
     },
     "SecondsBetweenTries": 3000,
     "SellEnabled": true,
@@ -113,9 +113,9 @@
     "MoneyToKeep": 10000,
     "NpcName": "Ljurik's Storage Box",
     "NpcPosition": {
-      "X": -253638.0,
-      "Y": -2754.4799804688,
-      "Z": -40563.80078125
+      "X": 364177.0,
+      "Y": -4957.7299804688,
+      "Z": -74140.1015625
     },
     "SecondsBetweenTries": 3000
   }
